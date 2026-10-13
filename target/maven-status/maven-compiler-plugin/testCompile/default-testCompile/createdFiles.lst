@@ -1,0 +1,5 @@
+com\kw\ebook\entity\vo\BookTest.class
+com\kw\ebook\entity\vo\LoanTest.class
+com\kw\ebook\entity\vo\MemberTest.class
+com\kw\ebook\controller\EbookApiIntegrationTest.class
+com\kw\ebook\service\LoanServiceHandlerTest.class

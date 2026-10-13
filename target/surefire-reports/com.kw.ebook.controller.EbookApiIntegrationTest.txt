@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kw.ebook.controller.EbookApiIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.265 s -- in com.kw.ebook.controller.EbookApiIntegrationTest

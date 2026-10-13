@@ -1,0 +1,7 @@
+# 開發環境配置
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
